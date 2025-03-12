@@ -1,0 +1,61 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Designing",
+      "description": "Create dessign.",
+      "dueDate": "2025-10-18",
+      "priority": "High",
+      "status": "In Progress",
+      "category": "Work",
+      "assignedTo": "Johnson Capistrano"
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Purchase groceries for the week.",
+      "dueDate": "2025-10-10",
+    
+      "status": "Not Started",
+      "category": "Personal",
+      "assignedTo": "Lesly Smith"
+    },
+    {
+      "id": 3,
+      "title": "Fix Critical Bug",
+      "description": "Resolve the critical bug in the payment module.",
+      "dueDate": "2023-11-05",
+      "priority": "Urgent",
+      "status": "Completed",
+      "category": "Urgent",
+      "assignedTo": "Alice Columna"
+    }
+  ],
+    "categories": [
+        {
+        "id": 1,
+        "name": "Work",
+        "color": "BFECFF"
+        },
+        {
+        "id": 2,
+        "name": "Personal",
+        "color": "CDC1FF"
+        },
+        {
+        "id": 3,
+        "name": "School",
+        "color": "FFF6E3"
+        },
+        {
+        "id": 4,
+        "name": "Errands",
+        "color": "FFCCEA"
+        },
+        {
+        "id": 5,
+        "name": "Projects",
+        "color":"B7B1F2"
+        }
+    ]
+}
