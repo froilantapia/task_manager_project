@@ -8,7 +8,6 @@
       "priority": "High",
       "status": "In Progress",
       "category": "Work",
-      "assignedTo": "Johnson Capistrano"
     },
     {
       "id": 2,
@@ -18,7 +17,6 @@
     
       "status": "Not Started",
       "category": "Personal",
-      "assignedTo": "Lesly Smith"
     },
     {
       "id": 3,
@@ -28,7 +26,7 @@
       "priority": "Urgent",
       "status": "Completed",
       "category": "Urgent",
-      "assignedTo": "Alice Columna"
+
     }
   ],
     "categories": [
