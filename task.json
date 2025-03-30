@@ -75,47 +75,38 @@
     {
       "id": 1,
       "name": "Work",
-      "color": "BFECFF"
     },
     {
       "id": 2,
       "name": "Personal",
-      "color": "CDC1FF"
     },
     {
       "id": 3,
       "name": "School",
-      "color": "FFF6E3"
     },
     {
       "id": 4,
       "name": "Errands",
-      "color": "FFCCEA"
     },
     {
       "id": 5,
       "name": "Projects",
-      "color": "B7B1F2"
     },
     {
       "id": 6,
       "name": "Fitness",
-      "color": "A8E6CF"
     },
     {
       "id": 7,
       "name": "Hobbies",
-      "color": "FFD3B6"
     },
     {
       "id": 8,
       "name": "Travel",
-      "color": "FFAAA5"
     },
     {
       "id": 9,
       "name": "Finance",
-      "color": "B5EAD7"
     }
   ]
 }
