@@ -4,8 +4,6 @@
       "id": 1,
       "title": "Designing",
       "description": "Create design.",
-      "dueDate": "2025-10-18",
-      "priority": "High",
       "status": "In Progress",
       "category": "Work"
     },
@@ -13,8 +11,6 @@
       "id": 2,
       "title": "Buy Groceries",
       "description": "Purchase groceries for the week.",
-      "dueDate": "2025-10-10",
-      "priority": "Normal",
       "status": "Not Started",
       "category": "Personal"
     },
@@ -22,10 +18,57 @@
       "id": 3,
       "title": "Fix Critical Bug",
       "description": "Resolve the critical bug in the payment module.",
-      "dueDate": "2023-11-05",
-      "priority": "Urgent",
       "status": "In Progress",
-      "category": "Urgent"
+      "category": "Work"
+    },
+    {
+      "id": 4,
+      "title": "Study for Exams",
+      "description": "Prepare for the upcoming exams.",
+      "status": "Not Started",
+      "category": "School"
+    },
+    {
+      "id": 5,
+      "title": "Clean the House",
+      "description": "Do a thorough cleaning of the house.",
+      "status": "In Progress",
+      "category": "Errands"
+    },
+    {
+      "id": 6,
+      "title": "Complete Flutter Project",
+      "description": "Finish the Flutter app development.",
+      "status": "Not Started",
+      "category": "Projects"
+    },
+    {
+      "id": 7,
+      "title": "Workout",
+      "description": "Complete a 30-minute workout session.",
+      "status": "Completed",
+      "category": "Fitness"
+    },
+    {
+      "id": 8,
+      "title": "Read a Book",
+      "description": "Read 50 pages of a novel.",
+      "status": "Not Started",
+      "category": "Hobbies"
+    },
+    {
+      "id": 9,
+      "title": "Plan Vacation",
+      "description": "Research and plan the next vacation.",
+      "status": "In Progress",
+      "category": "Travel"
+    },
+    {
+      "id": 10,
+      "title": "Pay Bills",
+      "description": "Pay electricity and internet bills.",
+      "status": "Completed",
+      "category": "Finance"
     }
   ],
   "categories": [
@@ -53,6 +96,26 @@
       "id": 5,
       "name": "Projects",
       "color": "B7B1F2"
+    },
+    {
+      "id": 6,
+      "name": "Fitness",
+      "color": "A8E6CF"
+    },
+    {
+      "id": 7,
+      "name": "Hobbies",
+      "color": "FFD3B6"
+    },
+    {
+      "id": 8,
+      "name": "Travel",
+      "color": "FFAAA5"
+    },
+    {
+      "id": 9,
+      "name": "Finance",
+      "color": "B5EAD7"
     }
   ]
 }
