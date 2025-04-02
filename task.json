@@ -5,49 +5,56 @@
       "title": "Designing",
       "description": "Create design.",
       "status": "Not Started",
-      "category": "Work"
+      "category": "Work",
+      "dueDate": "2025-12-15"
     },
     {
       "id": 2,
       "title": "Buy Groceries",
       "description": "Purchase groceries for the week.",
       "status": "Not Started",
-      "category": "Personal"
+      "category": "Personal",
+      "dueDate": "2025-12-10"
     },
     {
       "id": 3,
       "title": "Fix Critical Bug",
       "description": "Resolve the critical bug in the payment module.",
       "status": "Not Started",
-      "category": "Work"
+      "category": "Work",
+      "dueDate": "2025-12-05"
     },
     {
       "id": 4,
       "title": "Study for Exams",
       "description": "Prepare for the upcoming exams.",
       "status": "Not Started",
-      "category": "School"
+      "category": "School",
+      "dueDate": "2025-12-20"
     },
     {
       "id": 5,
       "title": "Clean the House",
       "description": "Do a thorough cleaning of the house.",
       "status": "Not Started",
-      "category": "Errands"
+      "category": "Errands",
+      "dueDate": "2025-12-12"
     },
     {
       "id": 6,
       "title": "Complete Flutter Project",
       "description": "Finish the Flutter app development.",
       "status": "Not Started",
-      "category": "Projects"
+      "category": "Projects",
+      "dueDate": "2025-12-25"
     },
     {
       "id": 7,
       "title": "Workout",
       "description": "Complete a 30-minute workout session.",
       "status": "Not Started",
-      "category": "Fitness"
+      "category": "Fitness",
+      "dueDate": "2025-12-31"
     }
   ]
 }
